@@ -1,7 +1,11 @@
 #esto es un txt
 #esta es mi segunda linea de codigo
 #Soy Calvo
+<<<<<<< HEAD
 #Hola mundo
 #Como están 
 #Disfruten Semana Santa 
 #Perdon la demora, estaba entrenando pero ya llegue jaja, os quiero chavales, soy el david jaja
+=======
+#Esta es mi segunda linea 
+>>>>>>> parent of d89a66a (Agregar lineas)
